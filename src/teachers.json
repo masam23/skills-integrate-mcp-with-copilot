@@ -1,0 +1,10 @@
+[
+  {
+    "username": "teacher1",
+    "password_hash": "$2b$12$examplehashforpassword1"
+  },
+  {
+    "username": "teacher2",
+    "password_hash": "$2b$12$examplehashforpassword2"
+  }
+]
